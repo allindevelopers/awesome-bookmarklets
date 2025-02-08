@@ -10,7 +10,8 @@ https://dev.to/iamandrewluca/bookmarklets-browser-search-engine-2m30
 - [Request Picture in Picture](./bookmarklets/request-picture-in-picture/)
 - [Extract chat keyword from Zoom recording](./bookmarklets/zoom-extract-chat-keyword/)
 - [Diff Time](./bookmarklets/diff-time/)
-- [YouTube Seek Track](./bookmarklets/youtube-seek-track)
+- [YouTube Seek Track](./bookmarklets/youtube-seek-track/)
+- [GitLab MR Reset Viewed](./bookmarklets//gitlab-mr-reset-viewed/)
 
 ### Starter template
 
