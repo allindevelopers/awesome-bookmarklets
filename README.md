@@ -36,7 +36,3 @@ https://dev.to/iamandrewluca/bookmarklets-browser-search-engine-2m30
 	globalThis.console.log(s);
 })(`%s`);
 ```
-
-**TODO:**
-
-- Migrate all bookmarklets from gist https://github.com/iamandrewluca/awesome-bookmarklets
